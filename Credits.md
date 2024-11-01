@@ -1,4 +1,8 @@
 # List of Wads I Have Used For This Level
+I chose these WADS because the textures and colors from these collections felt exactly like I needed for this level.
+I have gathered these WADS from these links down here
+https://www.quaddicted.com/files/wads/
+https://www.quaketastic.com/?dir=files/texture_wads
 
 ## Unreal Castle WAD
 [Unreal_Castle1.zip](https://github.com/CrazyPhrog/Dreadful-Tower/blob/main/Unreal_Castle1.zip)
